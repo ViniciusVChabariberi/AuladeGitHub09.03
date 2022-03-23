@@ -1,2 +1,2 @@
 # AuladeGitHub09.03
-QUALQUER COISA
+Hoje iremos aprender a usar comandos de programação pelo GitHub
